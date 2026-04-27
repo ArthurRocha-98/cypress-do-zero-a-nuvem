@@ -6,7 +6,7 @@ Sample project to demonstrate a cy.dataTest Cypress custom command.
 
 It is required to have Node.js and npm installed to run this project.
 
-I used versions v18.19.0 and 9.2.0 of Node.js and npm, respectively. I suggest you use the same or later versions.
+I used versions v24.15.0 and 11.12.1 of Node.js and npm, respectively. I suggest you use the same or later versions.
 
 ## Installation
 
